@@ -11,5 +11,5 @@
 
 ### Projects
 
-[WOWidget](https://wowidget.github.com) - iOS app to create custom widgets.
+[WOWidget](https://wowidget.github.io) - iOS app to create custom widgets.
 
