@@ -5,7 +5,8 @@
   <samp>
     I'm gondo.
     <br><br>
-    Contact me on twitter <a href="https://twitter.com/gondo">@gondo</a>
+    Reach out on X <a href="https://x.com/gondo">@gondo</a><br>
+    or BlusSky <a href="https://bsky.app/profile/gondo.bsky.social">@gondo.bsky.social</a><br>
   </samp>
 </p>
 
