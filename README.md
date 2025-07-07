@@ -15,6 +15,6 @@
 
 [Appio](https://appio.so) - Mobile features for any web app. In minutes. Without building an app.
 <br>
-[3D button](https://github.com/gondo/button) - A realistic 3D button component built with HTML, CSS, SVG, JS.
+[3D button](https://github.com/gondo/button) - Realistic 3D button component built with HTML, CSS, SVG, JS.
 <br>
 
